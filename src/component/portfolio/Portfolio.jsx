@@ -4,39 +4,39 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio4.jpg'
+import IMG5 from '../../assets/portfolio5.jpg'
 
 const data = [
 
   {
     id:1,
     image:IMG1,
-    title: 'Wordpress site Pharmacutical Company',
+    title: 'Wordpress site for Dawa Pharmacutical',
     demo:'http://dawapharmatrade.com/'
   },
 
    {
     id:2,
     image:IMG2,
-    title: 'Wordpress site Pharmacutical Company',
-    demo:'http://dawapharmatrade.com/'
+    title: 'Wordpress site for huda Pharmacutical',
+    demo:'https://hudapharmaceutical.et/'
   },
    {
     id:3,
     image:IMG3,
-    title: 'Wordpress site Pharmacutical Company',
-    demo:'http://dawapharmatrade.com/'
+    title: 'Android App for City',
+    demo:'http:/#/'
   },
    {
     id:4,
     image:IMG4,
-    title: 'Wordpress site Pharmacutical Company',
-    demo:'http://dawapharmatrade.com/'
+    title: 'Wordpress site NGO',
+    demo:'https://allianceforchildrens.org/'
   },
    {
     id:5,
     image:IMG5,
-    title: 'Wordpress site Pharmacutical Company',
+    title: 'Wordpress site Local NGO',
     demo:'http://dawapharmatrade.com/'
   },
 ]
