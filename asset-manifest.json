@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/obel-portfolio-website/static/css/main.6d92a886.css",
-    "main.js": "/obel-portfolio-website/static/js/main.2b605d88.js",
+    "main.js": "/obel-portfolio-website/static/js/main.be3af47d.js",
     "static/media/cv.pdf": "/obel-portfolio-website/static/media/cv.a523d516fc70ed3731a7.pdf",
     "static/media/me.png": "/obel-portfolio-website/static/media/me.23c1ac6e097d96d7f079.png",
     "static/media/me-about.jpg": "/obel-portfolio-website/static/media/me-about.7745164d1e69c0ac9e5e.jpg",
+    "static/media/portfolio6.jpg": "/obel-portfolio-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio4.jpg": "/obel-portfolio-website/static/media/portfolio4.29920ed854f16e18c170.jpg",
     "static/media/portfolio3.jpg": "/obel-portfolio-website/static/media/portfolio3.df021d1f00318294dd5b.jpg",
     "static/media/portfolio2.jpg": "/obel-portfolio-website/static/media/portfolio2.fde9c2f84955fb93c3fe.jpg",
@@ -12,10 +13,10 @@
     "static/media/portfolio1.jpg": "/obel-portfolio-website/static/media/portfolio1.f3504c3a3cfb708c274c.jpg",
     "index.html": "/obel-portfolio-website/index.html",
     "main.6d92a886.css.map": "/obel-portfolio-website/static/css/main.6d92a886.css.map",
-    "main.2b605d88.js.map": "/obel-portfolio-website/static/js/main.2b605d88.js.map"
+    "main.be3af47d.js.map": "/obel-portfolio-website/static/js/main.be3af47d.js.map"
   },
   "entrypoints": [
     "static/css/main.6d92a886.css",
-    "static/js/main.2b605d88.js"
+    "static/js/main.be3af47d.js"
   ]
 }
