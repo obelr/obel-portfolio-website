@@ -11,15 +11,15 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title: 'Wordpress site for Dawa Pharmacutical',
-    demo:'http://dawapharmatrade.com/'
+    title: 'Crypto Payment portal React project',
+    demo:'#'
   },
 
    {
     id:2,
     image:IMG2,
-    title: 'Wordpress site for huda Pharmacutical',
-    demo:'https://hudapharmaceutical.et/'
+    title: 'B2B Ecommerce admin Portal Next Js',
+    demo:'#'
   },
    {
     id:3,
